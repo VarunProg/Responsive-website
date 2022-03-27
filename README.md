@@ -10,5 +10,5 @@ https://taskapp-landingpage.netlify.app/
 
  
 ## 🛠 Skills Used
-HTML5, CSS3 and JavaScript.
+HTML5, SCSS and JavaScript.
 
